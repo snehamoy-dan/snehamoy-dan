@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snehamoy-dan
 - 👀 I’m interested in ... Exploring new technologies like Web Development, Machine Learning, etc
-- 🌱 I’m currently learning ... BTEch in Computer Science & Engineering
+- 🌱 I’m currently learning ... BTech in Computer Science & Engineering
 - 💞️ I’m looking to collaborate on ... Open-source projects in Web Development
 - 📫 How to reach me ... Mail :- snehamoydan1@gmail.com, Linkedin :- https://www.linkedin.com/in/snehamoy-dan-427989260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns ... He/Him
